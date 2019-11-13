@@ -1,0 +1,95 @@
+body{
+    margin: 0;
+}
+.qutu1{
+    background: url(foto/3.jpg);
+    padding: 200px 0;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+.qutu2{
+    text-align: center;
+    padding: 100px 0;
+    
+}
+.qutu1 input:hover{
+background: red;
+}
+.qutu1 input{
+    width: 100px;
+    height: 40px;
+}
+.qutu2 img{
+    width: 500px;
+    float: left;
+    padding: 35px;
+}
+.qutu3 h3{
+    padding: 1px 0px;
+    margin: 1px 0;
+    text-align: center;
+}
+.qutu3 p{
+    padding: 20px 0;
+    text-align: center;
+}
+.qutu4{
+    padding: 70px 0px;
+    text-align: center;
+    background: url(foto/1.jpg);
+    margin: 100px;
+    background-attachment: fixed;
+}
+.qutu4 h1{
+    color: white;
+}
+.qutu4 p{
+    color: white;
+}
+.qutu5{
+    text-align: center;
+    padding: 40px;
+}
+.qutu5 img{
+    float: right;
+    margin: 5px 0;
+    width: 500px;
+}
+.qutu6{
+    text-align: center;
+}
+.qutu7{
+margin: 1000px;
+text-align: center;
+}
+.qutu8 img:hover{
+    width: 250px;
+padding: 5px 5px;
+background-size: cover;
+transition: 0.2s;
+
+.qutu8{
+    clip-path: inset:(20px)
+
+}
+
+    
+}
+.qutu9{
+    background: url(foto/2.jpg);
+    margin: 10em;
+    height: 300px;
+    margin-top: 150px;
+    background-attachment: fixed;
+    text-align: center;
+}
+.qutu9 p{
+
+    float: left;
+    margin-top: 2%;
+    padding-top: 12%;
+    width: 250px;
+    color: white;
+}
